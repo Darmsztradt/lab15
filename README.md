@@ -17,6 +17,7 @@ Paragraf3
 - Element
 - Element
 - Element
+
 Tekst z kodem `print("Hello World")`
 ~~~py
 print("Hello World")
